@@ -1,0 +1,9 @@
+{
+  "extends": "tsconfig/base.json",
+  "display": "Packages library",
+  "include": ["."],
+  "exclude": ["dist", "build", "node_modules"],
+  "compilerOptions": {
+    "outDir": "dist"
+  }
+}
