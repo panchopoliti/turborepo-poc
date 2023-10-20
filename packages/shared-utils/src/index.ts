@@ -3,6 +3,6 @@ export const add = (a: number, b: number) => {
 };
 
 export const subtract = (a: number, b: number) => {
-  console.log('Hey there! I am using a shared package 6');
+  console.log('Hey there! I am using a shared package 85');
   return a - b;
 };
